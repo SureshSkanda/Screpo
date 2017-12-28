@@ -1,1 +1,1 @@
-# Screpo config server
+# Screpo config server repo
