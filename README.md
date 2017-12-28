@@ -1,1 +1,1 @@
-# Screpo
+# Screpo config server
